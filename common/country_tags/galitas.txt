@@ -1,0 +1,9 @@
+# Galitas
+
+# Special countries..
+REB = "countries/Rebels.txt"
+PIR = "countries/Pirates.txt"
+NAT = "countries/Natives.txt"
+
+#wah
+FRA = "countries/France.txt"
