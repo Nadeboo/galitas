@@ -4,3 +4,4 @@ tags={
 }
 name="Galitas"
 supported_version="1.37.*"
+path="mod/galitas"
